@@ -1,8 +1,6 @@
 rrrrrrrrrrr
 gggggg
 deddfef
-<<<<<<< HEAD
 fbfdbfdb
-=======
 trhtyjtyui
->>>>>>> 5258ad124693b35c41ca919ab615b809d1a3efc2
+ 5258ad124693b35c41ca919ab615b809d1a3efc2
